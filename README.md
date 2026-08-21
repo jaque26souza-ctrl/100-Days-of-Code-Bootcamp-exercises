@@ -28,7 +28,7 @@ O objetivo principal é construir a consistência na programação, desenvolvend
 | Dia | Projeto / Conceito Principal | Status | Link do Projeto |
 | :---: | :--- | :---: | :---: |
 | 001 | Band Name Generator (Variáveis e Print) | ✅ | [Ver código](./day-001) |
-| 002 | Tip Calculator (Tipos de Dados e Manipulação de Strings) | ✅ | [Ver código](./day-002) |
+| 002 | Tip Calculator (Tipos de Dados e Manipulação de Strings) | ✅ | [Ver código](Day2_bill_calculator.ipynb) |
 | 003 | Treasure Island (Condicionais e Controle de Fluxo) | 🔄 | [Ver código](./day-003) |
 | ... | ... | ⏳ | - |
 | 100 | Projeto Final | ⏳ | - |
