@@ -30,7 +30,7 @@ O objetivo principal é construir a consistência na programação, desenvolvend
 | 001 | Band Name Generator (Variáveis e Print) | ✅ | [Ver código](Day1.ipynb) |
 | 002 | Tip Calculator (Tipos de Dados e Manipulação de Strings) | ✅ | [Ver código](Day2_bill_calculator.ipynb) |
 | 003 | Treasure Island (Condicionais e Controle de Fluxo) | ✅ | [Ver código](Day3_tresuare_island_project.ipynb) |
-| 004 | Rocks, Papers (Listas) | 🔄 | [Ver código](Day3_tresuare_island_project.ipynb) |
+| 004 | Rocks, Papers (Listas) | 🔄 | [Ver código](Day4_rock_paper.ipynb) |
 | ... | ... | ⏳ | - |
 | 100 | Projeto Final | ⏳ | - |
 
