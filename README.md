@@ -32,7 +32,6 @@ O objetivo principal é construir a consistência na programação, desenvolvend
 | 003 | Treasure Island (Condicionais e Controle de Fluxo) | ✅ | [Ver código](Day3_tresuare_island_project.ipynb) |
 | 004 | Rocks, Papers (Listas) | ✅ | [Ver código](Day4_rock_paper.ipynb) |
 | 005 | Password generator (Loops) | ✅ | [Ver código](Day5.ipynb) |
-| 006 | Python functions and Karel | 🔄 | [Ver código]() |
 | ... | ... | ⏳ | - |
 | 100 | Projeto Final | ⏳ | - |
 
