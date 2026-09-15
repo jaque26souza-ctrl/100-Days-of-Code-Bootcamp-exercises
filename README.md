@@ -33,7 +33,9 @@ O objetivo principal é construir a consistência na programação, desenvolvend
 | 004 | Rocks, Papers (Listas) | ✅ | [Ver código](Day4_rock_paper.ipynb) |
 | 005 | Password generator (Loops) | ✅ | [Ver código](Day5.ipynb) |
 | 007 | Jogo da Forca - Hangman | ✅ | [Ver código](Day7_hagman.ipynb) |
-| 008 | Ceaser Cipher | ✅ | [Ver código](Day08.ipynb) |
+| 008 | Ceaser Cipher | ✅ | [Ver código](Day8.ipynb) |
+| 009 | Blind Auction| ✅ | [Ver código](Day9_secret_auction.ipynb) |
+| 010 | the blackjack capstone project| ⏳ | [Ver código]() |
 | ... | ... | ⏳ | - |
 | 100 | Projeto Final | ⏳ | - |
 
